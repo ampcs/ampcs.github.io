@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	"基于Zookeeper的服务注册与发现"
-date:	2015-12-25 12:25:12
+date:	2016-04-19 13:11:35
 categories: zookeeper
 excerpt: 基于Zookeeper的服务注册与发现的架构
 ---
